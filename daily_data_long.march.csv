@@ -1,0 +1,684 @@
+Date,Station,mean_reading,city,day,month,year
+01/03/2019,Bath Roadside,61,Bath,1,03,2019
+01/03/2019,Birmingham A4540 Roadside,45,Birmingham,1,03,2019
+01/03/2019,Birmingham Acocks Green,27,Birmingham,1,03,2019
+01/03/2019,Bristol St Paul's,29,Bristol,1,03,2019
+01/03/2019,Bristol Temple Way,37,Bristol,1,03,2019
+01/03/2019,Leeds Centre,41,Leeds,1,03,2019
+01/03/2019,Leeds Headingley Kerbside,48,Leeds,1,03,2019
+01/03/2019,Newcastle Centre,42,Newcastle,1,03,2019
+01/03/2019,Newcastle Cradlewell Roadside,63,Newcastle,1,03,2019
+01/03/2019,Reading London Road,28,Reading,1,03,2019
+01/03/2019,Sheffield Barnsley Road,53,Sheffield,1,03,2019
+01/03/2019,Sheffield Devonshire Green,39,Sheffield,1,03,2019
+01/03/2019,Sheffield Tinsley,45,Sheffield,1,03,2019
+02/03/2019,Bath Roadside,39,Bath,2,03,2019
+02/03/2019,Birmingham A4540 Roadside,22,Birmingham,2,03,2019
+02/03/2019,Birmingham Acocks Green,10,Birmingham,2,03,2019
+02/03/2019,Bristol St Paul's,17,Bristol,2,03,2019
+02/03/2019,Bristol Temple Way,31,Bristol,2,03,2019
+02/03/2019,Leeds Centre,24,Leeds,2,03,2019
+02/03/2019,Leeds Headingley Kerbside,22,Leeds,2,03,2019
+02/03/2019,Newcastle Centre,28,Newcastle,2,03,2019
+02/03/2019,Newcastle Cradlewell Roadside,40,Newcastle,2,03,2019
+02/03/2019,Reading London Road,12,Reading,2,03,2019
+02/03/2019,Sheffield Barnsley Road,25,Sheffield,2,03,2019
+02/03/2019,Sheffield Devonshire Green,15,Sheffield,2,03,2019
+02/03/2019,Sheffield Tinsley,18,Sheffield,2,03,2019
+03/03/2019,Bath Roadside,28,Bath,3,03,2019
+03/03/2019,Birmingham A4540 Roadside,19,Birmingham,3,03,2019
+03/03/2019,Birmingham Acocks Green,7,Birmingham,3,03,2019
+03/03/2019,Bristol St Paul's,10,Bristol,3,03,2019
+03/03/2019,Bristol Temple Way,21,Bristol,3,03,2019
+03/03/2019,Leeds Centre,16,Leeds,3,03,2019
+03/03/2019,Leeds Headingley Kerbside,18,Leeds,3,03,2019
+03/03/2019,Newcastle Centre,19,Newcastle,3,03,2019
+03/03/2019,Newcastle Cradlewell Roadside,29,Newcastle,3,03,2019
+03/03/2019,Reading London Road,5,Reading,3,03,2019
+03/03/2019,Sheffield Barnsley Road,25,Sheffield,3,03,2019
+03/03/2019,Sheffield Devonshire Green,16,Sheffield,3,03,2019
+03/03/2019,Sheffield Tinsley,16,Sheffield,3,03,2019
+04/03/2019,Bath Roadside,49,Bath,4,03,2019
+04/03/2019,Birmingham A4540 Roadside,25,Birmingham,4,03,2019
+04/03/2019,Birmingham Acocks Green,8,Birmingham,4,03,2019
+04/03/2019,Bristol St Paul's,15,Bristol,4,03,2019
+04/03/2019,Bristol Temple Way,26,Bristol,4,03,2019
+04/03/2019,Leeds Centre,21,Leeds,4,03,2019
+04/03/2019,Leeds Headingley Kerbside,19,Leeds,4,03,2019
+04/03/2019,Newcastle Centre,26,Newcastle,4,03,2019
+04/03/2019,Newcastle Cradlewell Roadside,19,Newcastle,4,03,2019
+04/03/2019,Reading London Road,27,Reading,4,03,2019
+04/03/2019,Sheffield Barnsley Road,26,Sheffield,4,03,2019
+04/03/2019,Sheffield Devonshire Green,13,Sheffield,4,03,2019
+04/03/2019,Sheffield Tinsley,26,Sheffield,4,03,2019
+05/03/2019,Bath Roadside,55,Bath,5,03,2019
+05/03/2019,Birmingham A4540 Roadside,34,Birmingham,5,03,2019
+05/03/2019,Birmingham Acocks Green,10,Birmingham,5,03,2019
+05/03/2019,Bristol St Paul's,24,Bristol,5,03,2019
+05/03/2019,Bristol Temple Way,34,Bristol,5,03,2019
+05/03/2019,Leeds Centre,41,Leeds,5,03,2019
+05/03/2019,Leeds Headingley Kerbside,35,Leeds,5,03,2019
+05/03/2019,Newcastle Centre,33,Newcastle,5,03,2019
+05/03/2019,Newcastle Cradlewell Roadside,52,Newcastle,5,03,2019
+05/03/2019,Reading London Road,13,Reading,5,03,2019
+05/03/2019,Sheffield Barnsley Road,35,Sheffield,5,03,2019
+05/03/2019,Sheffield Devonshire Green,23,Sheffield,5,03,2019
+05/03/2019,Sheffield Tinsley,29,Sheffield,5,03,2019
+06/03/2019,Bath Roadside,45,Bath,6,03,2019
+06/03/2019,Birmingham A4540 Roadside,31,Birmingham,6,03,2019
+06/03/2019,Birmingham Acocks Green,10,Birmingham,6,03,2019
+06/03/2019,Bristol St Paul's,16,Bristol,6,03,2019
+06/03/2019,Bristol Temple Way,29,Bristol,6,03,2019
+06/03/2019,Leeds Centre,40,Leeds,6,03,2019
+06/03/2019,Leeds Headingley Kerbside,37,Leeds,6,03,2019
+06/03/2019,Newcastle Cradlewell Roadside,64,Newcastle,6,03,2019
+06/03/2019,Reading London Road,8,Reading,6,03,2019
+06/03/2019,Sheffield Barnsley Road,37,Sheffield,6,03,2019
+06/03/2019,Sheffield Tinsley,27,Sheffield,6,03,2019
+07/03/2019,Bath Roadside,45,Bath,7,03,2019
+07/03/2019,Birmingham A4540 Roadside,24,Birmingham,7,03,2019
+07/03/2019,Birmingham Acocks Green,10,Birmingham,7,03,2019
+07/03/2019,Bristol St Paul's,14,Bristol,7,03,2019
+07/03/2019,Bristol Temple Way,22,Bristol,7,03,2019
+07/03/2019,Leeds Centre,25,Leeds,7,03,2019
+07/03/2019,Leeds Headingley Kerbside,19,Leeds,7,03,2019
+07/03/2019,Newcastle Cradlewell Roadside,40,Newcastle,7,03,2019
+07/03/2019,Reading London Road,22,Reading,7,03,2019
+07/03/2019,Sheffield Barnsley Road,26,Sheffield,7,03,2019
+07/03/2019,Sheffield Devonshire Green,15,Sheffield,7,03,2019
+07/03/2019,Sheffield Tinsley,24,Sheffield,7,03,2019
+08/03/2019,Bath Roadside,62,Bath,8,03,2019
+08/03/2019,Birmingham A4540 Roadside,39,Birmingham,8,03,2019
+08/03/2019,Birmingham Acocks Green,16,Birmingham,8,03,2019
+08/03/2019,Bristol St Paul's,28,Bristol,8,03,2019
+08/03/2019,Bristol Temple Way,39,Bristol,8,03,2019
+08/03/2019,Leeds Centre,36,Leeds,8,03,2019
+08/03/2019,Leeds Headingley Kerbside,31,Leeds,8,03,2019
+08/03/2019,Newcastle Centre,37,Newcastle,8,03,2019
+08/03/2019,Newcastle Cradlewell Roadside,56,Newcastle,8,03,2019
+08/03/2019,Reading London Road,20,Reading,8,03,2019
+08/03/2019,Sheffield Barnsley Road,36,Sheffield,8,03,2019
+08/03/2019,Sheffield Devonshire Green,24,Sheffield,8,03,2019
+08/03/2019,Sheffield Tinsley,36,Sheffield,8,03,2019
+09/03/2019,Bath Roadside,43,Bath,9,03,2019
+09/03/2019,Birmingham A4540 Roadside,20,Birmingham,9,03,2019
+09/03/2019,Birmingham Acocks Green,6,Birmingham,9,03,2019
+09/03/2019,Bristol St Paul's,13,Bristol,9,03,2019
+09/03/2019,Bristol Temple Way,25,Bristol,9,03,2019
+09/03/2019,Leeds Centre,21,Leeds,9,03,2019
+09/03/2019,Leeds Headingley Kerbside,18,Leeds,9,03,2019
+09/03/2019,Newcastle Centre,25,Newcastle,9,03,2019
+09/03/2019,Newcastle Cradlewell Roadside,25,Newcastle,9,03,2019
+09/03/2019,Reading London Road,20,Reading,9,03,2019
+09/03/2019,Sheffield Barnsley Road,25,Sheffield,9,03,2019
+09/03/2019,Sheffield Devonshire Green,18,Sheffield,9,03,2019
+09/03/2019,Sheffield Tinsley,21,Sheffield,9,03,2019
+10/03/2019,Bath Roadside,23,Bath,10,03,2019
+10/03/2019,Birmingham A4540 Roadside,16,Birmingham,10,03,2019
+10/03/2019,Birmingham Acocks Green,5,Birmingham,10,03,2019
+10/03/2019,Bristol St Paul's,7,Bristol,10,03,2019
+10/03/2019,Bristol Temple Way,14,Bristol,10,03,2019
+10/03/2019,Leeds Centre,24,Leeds,10,03,2019
+10/03/2019,Leeds Headingley Kerbside,23,Leeds,10,03,2019
+10/03/2019,Newcastle Centre,34,Newcastle,10,03,2019
+10/03/2019,Newcastle Cradlewell Roadside,42,Newcastle,10,03,2019
+10/03/2019,Reading London Road,17,Reading,10,03,2019
+10/03/2019,Sheffield Barnsley Road,27,Sheffield,10,03,2019
+10/03/2019,Sheffield Devonshire Green,17,Sheffield,10,03,2019
+10/03/2019,Sheffield Tinsley,18,Sheffield,10,03,2019
+11/03/2019,Bath Roadside,44,Bath,11,03,2019
+11/03/2019,Birmingham A4540 Roadside,27,Birmingham,11,03,2019
+11/03/2019,Bristol St Paul's,12,Bristol,11,03,2019
+11/03/2019,Bristol Temple Way,26,Bristol,11,03,2019
+11/03/2019,Leeds Centre,24,Leeds,11,03,2019
+11/03/2019,Leeds Headingley Kerbside,17,Leeds,11,03,2019
+11/03/2019,Newcastle Centre,28,Newcastle,11,03,2019
+11/03/2019,Newcastle Cradlewell Roadside,26,Newcastle,11,03,2019
+11/03/2019,Reading London Road,19,Reading,11,03,2019
+11/03/2019,Sheffield Barnsley Road,23,Sheffield,11,03,2019
+11/03/2019,Sheffield Devonshire Green,14,Sheffield,11,03,2019
+11/03/2019,Sheffield Tinsley,22,Sheffield,11,03,2019
+12/03/2019,Bath Roadside,42,Bath,12,03,2019
+12/03/2019,Birmingham A4540 Roadside,23,Birmingham,12,03,2019
+12/03/2019,Bristol St Paul's,12,Bristol,12,03,2019
+12/03/2019,Bristol Temple Way,21,Bristol,12,03,2019
+12/03/2019,Leeds Centre,23,Leeds,12,03,2019
+12/03/2019,Leeds Headingley Kerbside,18,Leeds,12,03,2019
+12/03/2019,Newcastle Centre,25,Newcastle,12,03,2019
+12/03/2019,Newcastle Cradlewell Roadside,30,Newcastle,12,03,2019
+12/03/2019,Reading London Road,17,Reading,12,03,2019
+12/03/2019,Sheffield Barnsley Road,27,Sheffield,12,03,2019
+12/03/2019,Sheffield Devonshire Green,14,Sheffield,12,03,2019
+12/03/2019,Sheffield Tinsley,29,Sheffield,12,03,2019
+13/03/2019,Bath Roadside,33,Bath,13,03,2019
+13/03/2019,Birmingham A4540 Roadside,22,Birmingham,13,03,2019
+13/03/2019,Birmingham Acocks Green,7,Birmingham,13,03,2019
+13/03/2019,Bristol St Paul's,9,Bristol,13,03,2019
+13/03/2019,Bristol Temple Way,20,Bristol,13,03,2019
+13/03/2019,Leeds Centre,16,Leeds,13,03,2019
+13/03/2019,Leeds Headingley Kerbside,10,Leeds,13,03,2019
+13/03/2019,Newcastle Centre,22,Newcastle,13,03,2019
+13/03/2019,Newcastle Cradlewell Roadside,12,Newcastle,13,03,2019
+13/03/2019,Reading London Road,21,Reading,13,03,2019
+13/03/2019,Sheffield Barnsley Road,15,Sheffield,13,03,2019
+13/03/2019,Sheffield Devonshire Green,9,Sheffield,13,03,2019
+13/03/2019,Sheffield Tinsley,16,Sheffield,13,03,2019
+14/03/2019,Bath Roadside,35,Bath,14,03,2019
+14/03/2019,Birmingham A4540 Roadside,23,Birmingham,14,03,2019
+14/03/2019,Birmingham Acocks Green,8,Birmingham,14,03,2019
+14/03/2019,Bristol St Paul's,10,Bristol,14,03,2019
+14/03/2019,Bristol Temple Way,19,Bristol,14,03,2019
+14/03/2019,Leeds Centre,17,Leeds,14,03,2019
+14/03/2019,Leeds Headingley Kerbside,13,Leeds,14,03,2019
+14/03/2019,Newcastle Centre,25,Newcastle,14,03,2019
+14/03/2019,Newcastle Cradlewell Roadside,13,Newcastle,14,03,2019
+14/03/2019,Reading London Road,21,Reading,14,03,2019
+14/03/2019,Sheffield Barnsley Road,18,Sheffield,14,03,2019
+14/03/2019,Sheffield Devonshire Green,11,Sheffield,14,03,2019
+14/03/2019,Sheffield Tinsley,21,Sheffield,14,03,2019
+15/03/2019,Bath Roadside,39,Bath,15,03,2019
+15/03/2019,Birmingham A4540 Roadside,21,Birmingham,15,03,2019
+15/03/2019,Birmingham Acocks Green,6,Birmingham,15,03,2019
+15/03/2019,Bristol St Paul's,11,Bristol,15,03,2019
+15/03/2019,Bristol Temple Way,19,Bristol,15,03,2019
+15/03/2019,Leeds Centre,22,Leeds,15,03,2019
+15/03/2019,Leeds Headingley Kerbside,17,Leeds,15,03,2019
+15/03/2019,Newcastle Centre,24,Newcastle,15,03,2019
+15/03/2019,Newcastle Cradlewell Roadside,20,Newcastle,15,03,2019
+15/03/2019,Reading London Road,19,Reading,15,03,2019
+15/03/2019,Sheffield Barnsley Road,19,Sheffield,15,03,2019
+15/03/2019,Sheffield Devonshire Green,14,Sheffield,15,03,2019
+15/03/2019,Sheffield Tinsley,20,Sheffield,15,03,2019
+16/03/2019,Bath Roadside,31,Bath,16,03,2019
+16/03/2019,Birmingham A4540 Roadside,14,Birmingham,16,03,2019
+16/03/2019,Birmingham Acocks Green,5,Birmingham,16,03,2019
+16/03/2019,Bristol St Paul's,7,Bristol,16,03,2019
+16/03/2019,Bristol Temple Way,17,Bristol,16,03,2019
+16/03/2019,Leeds Centre,23,Leeds,16,03,2019
+16/03/2019,Leeds Headingley Kerbside,20,Leeds,16,03,2019
+16/03/2019,Newcastle Centre,28,Newcastle,16,03,2019
+16/03/2019,Newcastle Cradlewell Roadside,39,Newcastle,16,03,2019
+16/03/2019,Reading London Road,7,Reading,16,03,2019
+16/03/2019,Sheffield Barnsley Road,21,Sheffield,16,03,2019
+16/03/2019,Sheffield Devonshire Green,15,Sheffield,16,03,2019
+16/03/2019,Sheffield Tinsley,13,Sheffield,16,03,2019
+17/03/2019,Bath Roadside,30,Bath,17,03,2019
+17/03/2019,Birmingham A4540 Roadside,20,Birmingham,17,03,2019
+17/03/2019,Birmingham Acocks Green,6,Birmingham,17,03,2019
+17/03/2019,Bristol St Paul's,9,Bristol,17,03,2019
+17/03/2019,Bristol Temple Way,18,Bristol,17,03,2019
+17/03/2019,Leeds Centre,18,Leeds,17,03,2019
+17/03/2019,Leeds Headingley Kerbside,12,Leeds,17,03,2019
+17/03/2019,Newcastle Centre,21,Newcastle,17,03,2019
+17/03/2019,Newcastle Cradlewell Roadside,13,Newcastle,17,03,2019
+17/03/2019,Reading London Road,22,Reading,17,03,2019
+17/03/2019,Sheffield Barnsley Road,17,Sheffield,17,03,2019
+17/03/2019,Sheffield Devonshire Green,11,Sheffield,17,03,2019
+17/03/2019,Sheffield Tinsley,16,Sheffield,17,03,2019
+18/03/2019,Bath Roadside,60,Bath,18,03,2019
+18/03/2019,Birmingham A4540 Roadside,39,Birmingham,18,03,2019
+18/03/2019,Birmingham Acocks Green,16,Birmingham,18,03,2019
+18/03/2019,Bristol St Paul's,25,Bristol,18,03,2019
+18/03/2019,Bristol Temple Way,36,Bristol,18,03,2019
+18/03/2019,Leeds Centre,34,Leeds,18,03,2019
+18/03/2019,Leeds Headingley Kerbside,33,Leeds,18,03,2019
+18/03/2019,Newcastle Centre,42,Newcastle,18,03,2019
+18/03/2019,Newcastle Cradlewell Roadside,37,Newcastle,18,03,2019
+18/03/2019,Reading London Road,35,Reading,18,03,2019
+18/03/2019,Sheffield Barnsley Road,41,Sheffield,18,03,2019
+18/03/2019,Sheffield Devonshire Green,20,Sheffield,18,03,2019
+18/03/2019,Sheffield Tinsley,43,Sheffield,18,03,2019
+19/03/2019,Bath Roadside,59,Bath,19,03,2019
+19/03/2019,Birmingham A4540 Roadside,31,Birmingham,19,03,2019
+19/03/2019,Birmingham Acocks Green,13,Birmingham,19,03,2019
+19/03/2019,Bristol St Paul's,21,Bristol,19,03,2019
+19/03/2019,Bristol Temple Way,34,Bristol,19,03,2019
+19/03/2019,Leeds Centre,35,Leeds,19,03,2019
+19/03/2019,Leeds Headingley Kerbside,35,Leeds,19,03,2019
+19/03/2019,Newcastle Centre,43,Newcastle,19,03,2019
+19/03/2019,Newcastle Cradlewell Roadside,50,Newcastle,19,03,2019
+19/03/2019,Reading London Road,21,Reading,19,03,2019
+19/03/2019,Sheffield Barnsley Road,48,Sheffield,19,03,2019
+19/03/2019,Sheffield Devonshire Green,25,Sheffield,19,03,2019
+19/03/2019,Sheffield Tinsley,48,Sheffield,19,03,2019
+20/03/2019,Bath Roadside,58,Bath,20,03,2019
+20/03/2019,Birmingham A4540 Roadside,30,Birmingham,20,03,2019
+20/03/2019,Birmingham Acocks Green,12,Birmingham,20,03,2019
+20/03/2019,Bristol St Paul's,17,Bristol,20,03,2019
+20/03/2019,Bristol Temple Way,31,Bristol,20,03,2019
+20/03/2019,Leeds Centre,31,Leeds,20,03,2019
+20/03/2019,Leeds Headingley Kerbside,27,Leeds,20,03,2019
+20/03/2019,Newcastle Centre,34,Newcastle,20,03,2019
+20/03/2019,Newcastle Cradlewell Roadside,45,Newcastle,20,03,2019
+20/03/2019,Reading London Road,22,Reading,20,03,2019
+20/03/2019,Sheffield Barnsley Road,43,Sheffield,20,03,2019
+20/03/2019,Sheffield Devonshire Green,24,Sheffield,20,03,2019
+20/03/2019,Sheffield Tinsley,36,Sheffield,20,03,2019
+21/03/2019,Bath Roadside,48,Bath,21,03,2019
+21/03/2019,Birmingham A4540 Roadside,29,Birmingham,21,03,2019
+21/03/2019,Birmingham Acocks Green,13,Birmingham,21,03,2019
+21/03/2019,Bristol St Paul's,17,Bristol,21,03,2019
+21/03/2019,Bristol Temple Way,32,Bristol,21,03,2019
+21/03/2019,Leeds Centre,32,Leeds,21,03,2019
+21/03/2019,Leeds Headingley Kerbside,30,Leeds,21,03,2019
+21/03/2019,Newcastle Centre,35,Newcastle,21,03,2019
+21/03/2019,Newcastle Cradlewell Roadside,33,Newcastle,21,03,2019
+21/03/2019,Reading London Road,25,Reading,21,03,2019
+21/03/2019,Sheffield Barnsley Road,39,Sheffield,21,03,2019
+21/03/2019,Sheffield Devonshire Green,27,Sheffield,21,03,2019
+21/03/2019,Sheffield Tinsley,39,Sheffield,21,03,2019
+22/03/2019,Bath Roadside,64,Bath,22,03,2019
+22/03/2019,Birmingham A4540 Roadside,26,Birmingham,22,03,2019
+22/03/2019,Birmingham Acocks Green,9,Birmingham,22,03,2019
+22/03/2019,Bristol St Paul's,23,Bristol,22,03,2019
+22/03/2019,Bristol Temple Way,39,Bristol,22,03,2019
+22/03/2019,Leeds Centre,25,Leeds,22,03,2019
+22/03/2019,Leeds Headingley Kerbside,21,Leeds,22,03,2019
+22/03/2019,Newcastle Centre,29,Newcastle,22,03,2019
+22/03/2019,Newcastle Cradlewell Roadside,37,Newcastle,22,03,2019
+22/03/2019,Reading London Road,14,Reading,22,03,2019
+22/03/2019,Sheffield Barnsley Road,24,Sheffield,22,03,2019
+22/03/2019,Sheffield Devonshire Green,14,Sheffield,22,03,2019
+22/03/2019,Sheffield Tinsley,23,Sheffield,22,03,2019
+23/03/2019,Bath Roadside,28,Bath,23,03,2019
+23/03/2019,Birmingham A4540 Roadside,25,Birmingham,23,03,2019
+23/03/2019,Birmingham Acocks Green,18,Birmingham,23,03,2019
+23/03/2019,Bristol St Paul's,20,Bristol,23,03,2019
+23/03/2019,Bristol Temple Way,60,Bristol,23,03,2019
+23/03/2019,Leeds Centre,22,Leeds,23,03,2019
+23/03/2019,Leeds Headingley Kerbside,24,Leeds,23,03,2019
+23/03/2019,Newcastle Centre,29,Newcastle,23,03,2019
+23/03/2019,Newcastle Cradlewell Roadside,29,Newcastle,23,03,2019
+23/03/2019,Reading London Road,42,Reading,23,03,2019
+23/03/2019,Sheffield Barnsley Road,33,Sheffield,23,03,2019
+23/03/2019,Sheffield Devonshire Green,16,Sheffield,23,03,2019
+23/03/2019,Sheffield Tinsley,20,Sheffield,23,03,2019
+24/03/2019,Bath Roadside,26,Bath,24,03,2019
+24/03/2019,Birmingham A4540 Roadside,27,Birmingham,24,03,2019
+24/03/2019,Birmingham Acocks Green,17,Birmingham,24,03,2019
+24/03/2019,Bristol St Paul's,20,Bristol,24,03,2019
+24/03/2019,Bristol Temple Way,43,Bristol,24,03,2019
+24/03/2019,Leeds Centre,18,Leeds,24,03,2019
+24/03/2019,Leeds Headingley Kerbside,19,Leeds,24,03,2019
+24/03/2019,Newcastle Centre,21,Newcastle,24,03,2019
+24/03/2019,Newcastle Cradlewell Roadside,19,Newcastle,24,03,2019
+24/03/2019,Reading London Road,31,Reading,24,03,2019
+24/03/2019,Sheffield Barnsley Road,22,Sheffield,24,03,2019
+24/03/2019,Sheffield Devonshire Green,16,Sheffield,24,03,2019
+24/03/2019,Sheffield Tinsley,23,Sheffield,24,03,2019
+25/03/2019,Bath Roadside,30,Bath,25,03,2019
+25/03/2019,Birmingham A4540 Roadside,32,Birmingham,25,03,2019
+25/03/2019,Birmingham Acocks Green,18,Birmingham,25,03,2019
+25/03/2019,Bristol St Paul's,19,Bristol,25,03,2019
+25/03/2019,Bristol Temple Way,59,Bristol,25,03,2019
+25/03/2019,Leeds Centre,21,Leeds,25,03,2019
+25/03/2019,Leeds Headingley Kerbside,25,Leeds,25,03,2019
+25/03/2019,Newcastle Centre,29,Newcastle,25,03,2019
+25/03/2019,Newcastle Cradlewell Roadside,34,Newcastle,25,03,2019
+25/03/2019,Reading London Road,39,Reading,25,03,2019
+25/03/2019,Sheffield Barnsley Road,37,Sheffield,25,03,2019
+25/03/2019,Sheffield Devonshire Green,17,Sheffield,25,03,2019
+25/03/2019,Sheffield Tinsley,25,Sheffield,25,03,2019
+26/03/2019,Bath Roadside,51,Bath,26,03,2019
+26/03/2019,Birmingham A4540 Roadside,44,Birmingham,26,03,2019
+26/03/2019,Birmingham Acocks Green,23,Birmingham,26,03,2019
+26/03/2019,Bristol St Paul's,35,Bristol,26,03,2019
+26/03/2019,Bristol Temple Way,64,Bristol,26,03,2019
+26/03/2019,Leeds Centre,29,Leeds,26,03,2019
+26/03/2019,Leeds Headingley Kerbside,26,Leeds,26,03,2019
+26/03/2019,Newcastle Centre,33,Newcastle,26,03,2019
+26/03/2019,Newcastle Cradlewell Roadside,22,Newcastle,26,03,2019
+26/03/2019,Reading London Road,46,Reading,26,03,2019
+26/03/2019,Sheffield Barnsley Road,38,Sheffield,26,03,2019
+26/03/2019,Sheffield Devonshire Green,22,Sheffield,26,03,2019
+26/03/2019,Sheffield Tinsley,44,Sheffield,26,03,2019
+01/03/2020,Bath A4 Roadside,24,Bath,1,03,2020
+01/03/2020,Birmingham A4540 Roadside,20,Birmingham,1,03,2020
+01/03/2020,Birmingham Acocks Green,5,Birmingham,1,03,2020
+01/03/2020,Birmingham Ladywood,7,Birmingham,1,03,2020
+01/03/2020,Bristol St Paul's,16,Bristol,1,03,2020
+01/03/2020,Bristol Temple Way,21,Bristol,1,03,2020
+01/03/2020,Leeds Centre,17,Leeds,1,03,2020
+01/03/2020,Leeds Headingley Kerbside,13,Leeds,1,03,2020
+01/03/2020,Newcastle Centre,10,Newcastle,1,03,2020
+01/03/2020,Newcastle Cradlewell Roadside,17,Newcastle,1,03,2020
+01/03/2020,Reading London Road,11,Reading,1,03,2020
+01/03/2020,Reading New Town,11,Reading,1,03,2020
+01/03/2020,Sheffield Barnsley Road,19,Sheffield,1,03,2020
+01/03/2020,Sheffield Devonshire Green,12,Sheffield,1,03,2020
+01/03/2020,Sheffield Tinsley,14,Sheffield,1,03,2020
+02/03/2020,Bath A4 Roadside,37,Bath,2,03,2020
+02/03/2020,Birmingham Ladywood,20,Birmingham,2,03,2020
+02/03/2020,Bristol St Paul's,19,Bristol,2,03,2020
+02/03/2020,Bristol Temple Way,30,Bristol,2,03,2020
+02/03/2020,Leeds Headingley Kerbside,33,Leeds,2,03,2020
+02/03/2020,Newcastle Centre,34,Newcastle,2,03,2020
+02/03/2020,Newcastle Cradlewell Roadside,56,Newcastle,2,03,2020
+02/03/2020,Reading London Road,29,Reading,2,03,2020
+02/03/2020,Reading New Town,19,Reading,2,03,2020
+02/03/2020,Sheffield Barnsley Road,49,Sheffield,2,03,2020
+02/03/2020,Sheffield Devonshire Green,29,Sheffield,2,03,2020
+02/03/2020,Sheffield Tinsley,40,Sheffield,2,03,2020
+03/03/2020,Bath A4 Roadside,44,Bath,3,03,2020
+03/03/2020,Birmingham Ladywood,16,Birmingham,3,03,2020
+03/03/2020,Bristol St Paul's,19,Bristol,3,03,2020
+03/03/2020,Bristol Temple Way,30,Bristol,3,03,2020
+03/03/2020,Leeds Headingley Kerbside,26,Leeds,3,03,2020
+03/03/2020,Newcastle Centre,36,Newcastle,3,03,2020
+03/03/2020,Newcastle Cradlewell Roadside,43,Newcastle,3,03,2020
+03/03/2020,Reading London Road,33,Reading,3,03,2020
+03/03/2020,Reading New Town,28,Reading,3,03,2020
+03/03/2020,Sheffield Barnsley Road,44,Sheffield,3,03,2020
+03/03/2020,Sheffield Devonshire Green,23,Sheffield,3,03,2020
+03/03/2020,Sheffield Tinsley,38,Sheffield,3,03,2020
+04/03/2020,Bath A4 Roadside,40,Bath,4,03,2020
+04/03/2020,Birmingham A4540 Roadside,47,Birmingham,4,03,2020
+04/03/2020,Birmingham Acocks Green,27,Birmingham,4,03,2020
+04/03/2020,Birmingham Ladywood,32,Birmingham,4,03,2020
+04/03/2020,Bristol St Paul's,31,Bristol,4,03,2020
+04/03/2020,Bristol Temple Way,57,Bristol,4,03,2020
+04/03/2020,Leeds Centre,52,Leeds,4,03,2020
+04/03/2020,Leeds Headingley Kerbside,55,Leeds,4,03,2020
+04/03/2020,Newcastle Centre,47,Newcastle,4,03,2020
+04/03/2020,Newcastle Cradlewell Roadside,75,Newcastle,4,03,2020
+04/03/2020,Reading London Road,44,Reading,4,03,2020
+04/03/2020,Reading New Town,32,Reading,4,03,2020
+04/03/2020,Sheffield Barnsley Road,61,Sheffield,4,03,2020
+04/03/2020,Sheffield Devonshire Green,49,Sheffield,4,03,2020
+04/03/2020,Sheffield Tinsley,51,Sheffield,4,03,2020
+05/03/2020,Bath A4 Roadside,43,Bath,5,03,2020
+05/03/2020,Birmingham A4540 Roadside,34,Birmingham,5,03,2020
+05/03/2020,Birmingham Acocks Green,26,Birmingham,5,03,2020
+05/03/2020,Birmingham Ladywood,34,Birmingham,5,03,2020
+05/03/2020,Bristol St Paul's,24,Bristol,5,03,2020
+05/03/2020,Bristol Temple Way,51,Bristol,5,03,2020
+05/03/2020,Leeds Centre,40,Leeds,5,03,2020
+05/03/2020,Leeds Headingley Kerbside,45,Leeds,5,03,2020
+05/03/2020,Newcastle Centre,50,Newcastle,5,03,2020
+05/03/2020,Newcastle Cradlewell Roadside,73,Newcastle,5,03,2020
+05/03/2020,Reading London Road,32,Reading,5,03,2020
+05/03/2020,Reading New Town,20,Reading,5,03,2020
+05/03/2020,Sheffield Barnsley Road,55,Sheffield,5,03,2020
+05/03/2020,Sheffield Devonshire Green,46,Sheffield,5,03,2020
+05/03/2020,Sheffield Tinsley,45,Sheffield,5,03,2020
+06/03/2020,Bath A4 Roadside,51,Bath,6,03,2020
+06/03/2020,Birmingham A4540 Roadside,65,Birmingham,6,03,2020
+06/03/2020,Birmingham Acocks Green,40,Birmingham,6,03,2020
+06/03/2020,Birmingham Ladywood,40,Birmingham,6,03,2020
+06/03/2020,Bristol St Paul's,37,Bristol,6,03,2020
+06/03/2020,Bristol Temple Way,54,Bristol,6,03,2020
+06/03/2020,Leeds Centre,44,Leeds,6,03,2020
+06/03/2020,Leeds Headingley Kerbside,46,Leeds,6,03,2020
+06/03/2020,Newcastle Centre,52,Newcastle,6,03,2020
+06/03/2020,Newcastle Cradlewell Roadside,69,Newcastle,6,03,2020
+06/03/2020,Reading London Road,46,Reading,6,03,2020
+06/03/2020,Reading New Town,37,Reading,6,03,2020
+06/03/2020,Sheffield Barnsley Road,59,Sheffield,6,03,2020
+06/03/2020,Sheffield Devonshire Green,47,Sheffield,6,03,2020
+06/03/2020,Sheffield Tinsley,57,Sheffield,6,03,2020
+07/03/2020,Bath A4 Roadside,33,Bath,7,03,2020
+07/03/2020,Birmingham A4540 Roadside,25,Birmingham,7,03,2020
+07/03/2020,Birmingham Acocks Green,10,Birmingham,7,03,2020
+07/03/2020,Birmingham Ladywood,11,Birmingham,7,03,2020
+07/03/2020,Bristol St Paul's,17,Bristol,7,03,2020
+07/03/2020,Bristol Temple Way,23,Bristol,7,03,2020
+07/03/2020,Leeds Centre,20,Leeds,7,03,2020
+07/03/2020,Leeds Headingley Kerbside,17,Leeds,7,03,2020
+07/03/2020,Newcastle Centre,22,Newcastle,7,03,2020
+07/03/2020,Newcastle Cradlewell Roadside,35,Newcastle,7,03,2020
+07/03/2020,Reading London Road,13,Reading,7,03,2020
+07/03/2020,Reading New Town,16,Reading,7,03,2020
+07/03/2020,Sheffield Barnsley Road,27,Sheffield,7,03,2020
+07/03/2020,Sheffield Devonshire Green,20,Sheffield,7,03,2020
+07/03/2020,Sheffield Tinsley,17,Sheffield,7,03,2020
+08/03/2020,Bath A4 Roadside,16,Bath,8,03,2020
+08/03/2020,Birmingham A4540 Roadside,12,Birmingham,8,03,2020
+08/03/2020,Birmingham Acocks Green,5,Birmingham,8,03,2020
+08/03/2020,Birmingham Ladywood,4,Birmingham,8,03,2020
+08/03/2020,Bristol St Paul's,6,Bristol,8,03,2020
+08/03/2020,Bristol Temple Way,10,Bristol,8,03,2020
+08/03/2020,Leeds Centre,14,Leeds,8,03,2020
+08/03/2020,Leeds Headingley Kerbside,12,Leeds,8,03,2020
+08/03/2020,Newcastle Centre,19,Newcastle,8,03,2020
+08/03/2020,Newcastle Cradlewell Roadside,26,Newcastle,8,03,2020
+08/03/2020,Reading London Road,13,Reading,8,03,2020
+08/03/2020,Reading New Town,10,Reading,8,03,2020
+08/03/2020,Sheffield Barnsley Road,22,Sheffield,8,03,2020
+08/03/2020,Sheffield Devonshire Green,14,Sheffield,8,03,2020
+08/03/2020,Sheffield Tinsley,18,Sheffield,8,03,2020
+09/03/2020,Bath A4 Roadside,26,Bath,9,03,2020
+09/03/2020,Birmingham A4540 Roadside,25,Birmingham,9,03,2020
+09/03/2020,Birmingham Acocks Green,8,Birmingham,9,03,2020
+09/03/2020,Birmingham Ladywood,10,Birmingham,9,03,2020
+09/03/2020,Bristol St Paul's,11,Bristol,9,03,2020
+09/03/2020,Bristol Temple Way,18,Bristol,9,03,2020
+09/03/2020,Leeds Centre,24,Leeds,9,03,2020
+09/03/2020,Leeds Headingley Kerbside,17,Leeds,9,03,2020
+09/03/2020,Newcastle Centre,26,Newcastle,9,03,2020
+09/03/2020,Newcastle Cradlewell Roadside,35,Newcastle,9,03,2020
+09/03/2020,Reading London Road,20,Reading,9,03,2020
+09/03/2020,Reading New Town,13,Reading,9,03,2020
+09/03/2020,Sheffield Barnsley Road,25,Sheffield,9,03,2020
+09/03/2020,Sheffield Devonshire Green,15,Sheffield,9,03,2020
+09/03/2020,Sheffield Tinsley,25,Sheffield,9,03,2020
+10/03/2020,Bath A4 Roadside,15,Bath,10,03,2020
+10/03/2020,Birmingham A4540 Roadside,19,Birmingham,10,03,2020
+10/03/2020,Birmingham Acocks Green,6,Birmingham,10,03,2020
+10/03/2020,Birmingham Ladywood,8,Birmingham,10,03,2020
+10/03/2020,Bristol St Paul's,7,Bristol,10,03,2020
+10/03/2020,Bristol Temple Way,12,Bristol,10,03,2020
+10/03/2020,Leeds Centre,19,Leeds,10,03,2020
+10/03/2020,Leeds Headingley Kerbside,14,Leeds,10,03,2020
+10/03/2020,Newcastle Centre,16,Newcastle,10,03,2020
+10/03/2020,Newcastle Cradlewell Roadside,15,Newcastle,10,03,2020
+10/03/2020,Reading London Road,17,Reading,10,03,2020
+10/03/2020,Reading New Town,11,Reading,10,03,2020
+10/03/2020,Sheffield Barnsley Road,22,Sheffield,10,03,2020
+10/03/2020,Sheffield Devonshire Green,11,Sheffield,10,03,2020
+10/03/2020,Sheffield Tinsley,22,Sheffield,10,03,2020
+11/03/2020,Bath A4 Roadside,23,Bath,11,03,2020
+11/03/2020,Birmingham A4540 Roadside,23,Birmingham,11,03,2020
+11/03/2020,Birmingham Acocks Green,7,Birmingham,11,03,2020
+11/03/2020,Birmingham Ladywood,8,Birmingham,11,03,2020
+11/03/2020,Bristol St Paul's,15,Bristol,11,03,2020
+11/03/2020,Bristol Temple Way,18,Bristol,11,03,2020
+11/03/2020,Leeds Centre,21,Leeds,11,03,2020
+11/03/2020,Leeds Headingley Kerbside,14,Leeds,11,03,2020
+11/03/2020,Newcastle Centre,23,Newcastle,11,03,2020
+11/03/2020,Newcastle Cradlewell Roadside,34,Newcastle,11,03,2020
+11/03/2020,Reading London Road,9,Reading,11,03,2020
+11/03/2020,Reading New Town,10,Reading,11,03,2020
+11/03/2020,Sheffield Barnsley Road,27,Sheffield,11,03,2020
+11/03/2020,Sheffield Devonshire Green,15,Sheffield,11,03,2020
+11/03/2020,Sheffield Tinsley,22,Sheffield,11,03,2020
+12/03/2020,Bath A4 Roadside,19,Bath,12,03,2020
+12/03/2020,Birmingham A4540 Roadside,18,Birmingham,12,03,2020
+12/03/2020,Birmingham Acocks Green,6,Birmingham,12,03,2020
+12/03/2020,Birmingham Ladywood,6,Birmingham,12,03,2020
+12/03/2020,Bristol St Paul's,9,Bristol,12,03,2020
+12/03/2020,Bristol Temple Way,15,Bristol,12,03,2020
+12/03/2020,Leeds Centre,15,Leeds,12,03,2020
+12/03/2020,Leeds Headingley Kerbside,10,Leeds,12,03,2020
+12/03/2020,Newcastle Centre,13,Newcastle,12,03,2020
+12/03/2020,Newcastle Cradlewell Roadside,17,Newcastle,12,03,2020
+12/03/2020,Reading London Road,16,Reading,12,03,2020
+12/03/2020,Reading New Town,10,Reading,12,03,2020
+12/03/2020,Sheffield Barnsley Road,19,Sheffield,12,03,2020
+12/03/2020,Sheffield Devonshire Green,9,Sheffield,12,03,2020
+12/03/2020,Sheffield Tinsley,16,Sheffield,12,03,2020
+13/03/2020,Bath A4 Roadside,29,Bath,13,03,2020
+13/03/2020,Birmingham A4540 Roadside,38,Birmingham,13,03,2020
+13/03/2020,Birmingham Acocks Green,17,Birmingham,13,03,2020
+13/03/2020,Birmingham Ladywood,24,Birmingham,13,03,2020
+13/03/2020,Bristol St Paul's,12,Bristol,13,03,2020
+13/03/2020,Bristol Temple Way,21,Bristol,13,03,2020
+13/03/2020,Leeds Centre,21,Leeds,13,03,2020
+13/03/2020,Leeds Headingley Kerbside,27,Leeds,13,03,2020
+13/03/2020,Newcastle Centre,22,Newcastle,13,03,2020
+13/03/2020,Newcastle Cradlewell Roadside,30,Newcastle,13,03,2020
+13/03/2020,Reading London Road,19,Reading,13,03,2020
+13/03/2020,Reading New Town,13,Reading,13,03,2020
+13/03/2020,Sheffield Barnsley Road,34,Sheffield,13,03,2020
+13/03/2020,Sheffield Devonshire Green,22,Sheffield,13,03,2020
+13/03/2020,Sheffield Tinsley,18,Sheffield,13,03,2020
+14/03/2020,Bath A4 Roadside,27,Bath,14,03,2020
+14/03/2020,Birmingham A4540 Roadside,23,Birmingham,14,03,2020
+14/03/2020,Birmingham Acocks Green,7,Birmingham,14,03,2020
+14/03/2020,Birmingham Ladywood,11,Birmingham,14,03,2020
+14/03/2020,Bristol St Paul's,19,Bristol,14,03,2020
+14/03/2020,Bristol Temple Way,26,Bristol,14,03,2020
+14/03/2020,Leeds Centre,23,Leeds,14,03,2020
+14/03/2020,Leeds Headingley Kerbside,22,Leeds,14,03,2020
+14/03/2020,Newcastle Centre,24,Newcastle,14,03,2020
+14/03/2020,Newcastle Cradlewell Roadside,30,Newcastle,14,03,2020
+14/03/2020,Reading London Road,9,Reading,14,03,2020
+14/03/2020,Reading New Town,10,Reading,14,03,2020
+14/03/2020,Sheffield Barnsley Road,31,Sheffield,14,03,2020
+14/03/2020,Sheffield Devonshire Green,22,Sheffield,14,03,2020
+14/03/2020,Sheffield Tinsley,16,Sheffield,14,03,2020
+15/03/2020,Bath A4 Roadside,27,Bath,15,03,2020
+15/03/2020,Birmingham A4540 Roadside,27,Birmingham,15,03,2020
+15/03/2020,Birmingham Acocks Green,12,Birmingham,15,03,2020
+15/03/2020,Birmingham Ladywood,14,Birmingham,15,03,2020
+15/03/2020,Bristol St Paul's,11,Bristol,15,03,2020
+15/03/2020,Bristol Temple Way,20,Bristol,15,03,2020
+15/03/2020,Leeds Centre,11,Leeds,15,03,2020
+15/03/2020,Leeds Headingley Kerbside,7,Leeds,15,03,2020
+15/03/2020,Newcastle Centre,15,Newcastle,15,03,2020
+15/03/2020,Newcastle Cradlewell Roadside,13,Newcastle,15,03,2020
+15/03/2020,Reading London Road,17,Reading,15,03,2020
+15/03/2020,Reading New Town,15,Reading,15,03,2020
+15/03/2020,Sheffield Barnsley Road,17,Sheffield,15,03,2020
+15/03/2020,Sheffield Devonshire Green,12,Sheffield,15,03,2020
+15/03/2020,Sheffield Tinsley,14,Sheffield,15,03,2020
+16/03/2020,Bath A4 Roadside,42,Bath,16,03,2020
+16/03/2020,Birmingham A4540 Roadside,38,Birmingham,16,03,2020
+16/03/2020,Birmingham Acocks Green,13,Birmingham,16,03,2020
+16/03/2020,Bristol St Paul's,27,Bristol,16,03,2020
+16/03/2020,Bristol Temple Way,43,Bristol,16,03,2020
+16/03/2020,Leeds Centre,19,Leeds,16,03,2020
+16/03/2020,Leeds Headingley Kerbside,18,Leeds,16,03,2020
+16/03/2020,Newcastle Centre,27,Newcastle,16,03,2020
+16/03/2020,Newcastle Cradlewell Roadside,35,Newcastle,16,03,2020
+16/03/2020,Reading London Road,29,Reading,16,03,2020
+16/03/2020,Reading New Town,23,Reading,16,03,2020
+16/03/2020,Sheffield Barnsley Road,28,Sheffield,16,03,2020
+16/03/2020,Sheffield Devonshire Green,14,Sheffield,16,03,2020
+16/03/2020,Sheffield Tinsley,26,Sheffield,16,03,2020
+17/03/2020,Bath A4 Roadside,27,Bath,17,03,2020
+17/03/2020,Birmingham A4540 Roadside,23,Birmingham,17,03,2020
+17/03/2020,Birmingham Acocks Green,8,Birmingham,17,03,2020
+17/03/2020,Bristol St Paul's,15,Bristol,17,03,2020
+17/03/2020,Bristol Temple Way,22,Bristol,17,03,2020
+17/03/2020,Leeds Centre,16,Leeds,17,03,2020
+17/03/2020,Leeds Headingley Kerbside,8,Leeds,17,03,2020
+17/03/2020,Newcastle Centre,23,Newcastle,17,03,2020
+17/03/2020,Newcastle Cradlewell Roadside,29,Newcastle,17,03,2020
+17/03/2020,Reading London Road,10,Reading,17,03,2020
+17/03/2020,Reading New Town,13,Reading,17,03,2020
+17/03/2020,Sheffield Barnsley Road,24,Sheffield,17,03,2020
+17/03/2020,Sheffield Devonshire Green,18,Sheffield,17,03,2020
+17/03/2020,Sheffield Tinsley,18,Sheffield,17,03,2020
+18/03/2020,Bath A4 Roadside,27,Bath,18,03,2020
+18/03/2020,Birmingham A4540 Roadside,37,Birmingham,18,03,2020
+18/03/2020,Birmingham Acocks Green,24,Birmingham,18,03,2020
+18/03/2020,Birmingham Ladywood,26,Birmingham,18,03,2020
+18/03/2020,Bristol St Paul's,15,Bristol,18,03,2020
+18/03/2020,Bristol Temple Way,27,Bristol,18,03,2020
+18/03/2020,Leeds Centre,22,Leeds,18,03,2020
+18/03/2020,Leeds Headingley Kerbside,18,Leeds,18,03,2020
+18/03/2020,Newcastle Centre,25,Newcastle,18,03,2020
+18/03/2020,Newcastle Cradlewell Roadside,25,Newcastle,18,03,2020
+18/03/2020,Reading London Road,12,Reading,18,03,2020
+18/03/2020,Reading New Town,11,Reading,18,03,2020
+18/03/2020,Sheffield Barnsley Road,36,Sheffield,18,03,2020
+18/03/2020,Sheffield Devonshire Green,18,Sheffield,18,03,2020
+18/03/2020,Sheffield Tinsley,31,Sheffield,18,03,2020
+19/03/2020,Bath A4 Roadside,28,Bath,19,03,2020
+19/03/2020,Birmingham A4540 Roadside,25,Birmingham,19,03,2020
+19/03/2020,Birmingham Acocks Green,19,Birmingham,19,03,2020
+19/03/2020,Birmingham Ladywood,21,Birmingham,19,03,2020
+19/03/2020,Bristol St Paul's,16,Bristol,19,03,2020
+19/03/2020,Bristol Temple Way,51,Bristol,19,03,2020
+19/03/2020,Leeds Centre,24,Leeds,19,03,2020
+19/03/2020,Leeds Headingley Kerbside,26,Leeds,19,03,2020
+19/03/2020,Newcastle Cradlewell Roadside,30,Newcastle,19,03,2020
+19/03/2020,Reading London Road,36,Reading,19,03,2020
+19/03/2020,Reading New Town,22,Reading,19,03,2020
+19/03/2020,Sheffield Barnsley Road,51,Sheffield,19,03,2020
+19/03/2020,Sheffield Devonshire Green,34,Sheffield,19,03,2020
+19/03/2020,Sheffield Tinsley,38,Sheffield,19,03,2020
+20/03/2020,Bath A4 Roadside,20,Bath,20,03,2020
+20/03/2020,Birmingham A4540 Roadside,16,Birmingham,20,03,2020
+20/03/2020,Birmingham Acocks Green,12,Birmingham,20,03,2020
+20/03/2020,Birmingham Ladywood,14,Birmingham,20,03,2020
+20/03/2020,Bristol St Paul's,11,Bristol,20,03,2020
+20/03/2020,Bristol Temple Way,32,Bristol,20,03,2020
+20/03/2020,Leeds Centre,13,Leeds,20,03,2020
+20/03/2020,Leeds Headingley Kerbside,18,Leeds,20,03,2020
+20/03/2020,Newcastle Cradlewell Roadside,27,Newcastle,20,03,2020
+20/03/2020,Reading London Road,26,Reading,20,03,2020
+20/03/2020,Reading New Town,16,Reading,20,03,2020
+20/03/2020,Sheffield Barnsley Road,32,Sheffield,20,03,2020
+20/03/2020,Sheffield Devonshire Green,25,Sheffield,20,03,2020
+20/03/2020,Sheffield Tinsley,17,Sheffield,20,03,2020
+21/03/2020,Bath A4 Roadside,17,Bath,21,03,2020
+21/03/2020,Birmingham A4540 Roadside,11,Birmingham,21,03,2020
+21/03/2020,Birmingham Acocks Green,8,Birmingham,21,03,2020
+21/03/2020,Birmingham Ladywood,11,Birmingham,21,03,2020
+21/03/2020,Bristol St Paul's,9,Bristol,21,03,2020
+21/03/2020,Bristol Temple Way,19,Bristol,21,03,2020
+21/03/2020,Leeds Centre,10,Leeds,21,03,2020
+21/03/2020,Leeds Headingley Kerbside,10,Leeds,21,03,2020
+21/03/2020,Newcastle Centre,12,Newcastle,21,03,2020
+21/03/2020,Newcastle Cradlewell Roadside,24,Newcastle,21,03,2020
+21/03/2020,Reading London Road,21,Reading,21,03,2020
+21/03/2020,Reading New Town,16,Reading,21,03,2020
+21/03/2020,Sheffield Barnsley Road,29,Sheffield,21,03,2020
+21/03/2020,Sheffield Devonshire Green,19,Sheffield,21,03,2020
+21/03/2020,Sheffield Tinsley,12,Sheffield,21,03,2020
+22/03/2020,Bath A4 Roadside,18,Bath,22,03,2020
+22/03/2020,Birmingham A4540 Roadside,13,Birmingham,22,03,2020
+22/03/2020,Birmingham Acocks Green,12,Birmingham,22,03,2020
+22/03/2020,Birmingham Ladywood,12,Birmingham,22,03,2020
+22/03/2020,Bristol St Paul's,10,Bristol,22,03,2020
+22/03/2020,Bristol Temple Way,18,Bristol,22,03,2020
+22/03/2020,Leeds Centre,15,Leeds,22,03,2020
+22/03/2020,Leeds Headingley Kerbside,12,Leeds,22,03,2020
+22/03/2020,Newcastle Centre,14,Newcastle,22,03,2020
+22/03/2020,Newcastle Cradlewell Roadside,19,Newcastle,22,03,2020
+22/03/2020,Reading London Road,21,Reading,22,03,2020
+22/03/2020,Reading New Town,19,Reading,22,03,2020
+22/03/2020,Sheffield Barnsley Road,29,Sheffield,22,03,2020
+22/03/2020,Sheffield Devonshire Green,15,Sheffield,22,03,2020
+22/03/2020,Sheffield Tinsley,11,Sheffield,22,03,2020
+23/03/2020,Bath A4 Roadside,27,Bath,23,03,2020
+23/03/2020,Birmingham A4540 Roadside,38,Birmingham,23,03,2020
+23/03/2020,Birmingham Acocks Green,26,Birmingham,23,03,2020
+23/03/2020,Birmingham Ladywood,35,Birmingham,23,03,2020
+23/03/2020,Bristol St Paul's,23,Bristol,23,03,2020
+23/03/2020,Bristol Temple Way,35,Bristol,23,03,2020
+23/03/2020,Leeds Centre,32,Leeds,23,03,2020
+23/03/2020,Leeds Headingley Kerbside,27,Leeds,23,03,2020
+23/03/2020,Newcastle Centre,23,Newcastle,23,03,2020
+23/03/2020,Newcastle Cradlewell Roadside,30,Newcastle,23,03,2020
+23/03/2020,Reading London Road,34,Reading,23,03,2020
+23/03/2020,Reading New Town,26,Reading,23,03,2020
+23/03/2020,Sheffield Barnsley Road,38,Sheffield,23,03,2020
+23/03/2020,Sheffield Devonshire Green,33,Sheffield,23,03,2020
+23/03/2020,Sheffield Tinsley,34,Sheffield,23,03,2020
+24/03/2020,Bath A4 Roadside,33,Bath,24,03,2020
+24/03/2020,Birmingham A4540 Roadside,41,Birmingham,24,03,2020
+24/03/2020,Birmingham Acocks Green,19,Birmingham,24,03,2020
+24/03/2020,Birmingham Ladywood,22,Birmingham,24,03,2020
+24/03/2020,Bristol St Paul's,30,Bristol,24,03,2020
+24/03/2020,Bristol Temple Way,34,Bristol,24,03,2020
+24/03/2020,Leeds Centre,37,Leeds,24,03,2020
+24/03/2020,Leeds Headingley Kerbside,28,Leeds,24,03,2020
+24/03/2020,Newcastle Centre,28,Newcastle,24,03,2020
+24/03/2020,Newcastle Cradlewell Roadside,42,Newcastle,24,03,2020
+24/03/2020,Reading London Road,30,Reading,24,03,2020
+24/03/2020,Reading New Town,30,Reading,24,03,2020
+24/03/2020,Sheffield Barnsley Road,38,Sheffield,24,03,2020
+24/03/2020,Sheffield Devonshire Green,28,Sheffield,24,03,2020
+24/03/2020,Sheffield Tinsley,32,Sheffield,24,03,2020
