@@ -15,10 +15,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Glasgow Live: [Dangerous air pollutants falling as people stay home to beat coronavirus](https://www.glasgowlive.co.uk/news/glasgow-news/dangerous-air-pollutants-falling-people-17998466) *28 March 2020*
 * Manchester Evening News: [Dangerous air pollutants falling as people stay home during the lockdown](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/dangerous-air-pollutants-falling-people-17997706) *29 March 2020*
 * Grimsby Live: [Air pollution in Scunthorpe drops by a third as people stay at home during coronavirus pandemic](https://www.grimsbytelegraph.co.uk/news/local-news/air-pollution-scunthorpe-drops-third-3994024) *30 March 2020*
+* Edinburgh Evening News: [Edinburgh sees more than 50 per cent drop in air pollution as lockdown lowers amount of traffic](https://www.edinburghnews.scotsman.com/news/environment/edinburgh-sees-more-50-cent-drop-air-pollution-lockdown-lowers-amount-traffic-2523138) *30 March 2020*
 * Wigan Today: [Lockdown life in Wigan has much cleaner air](https://www.wigantoday.net/health/coronavirus/lockdown-life-wigan-has-much-cleaner-air-2523485) *31 March 2020*
 * Derbyshire Live: [Dramatic fall in dangerous pollution as Derby empties of traffic](https://www.derbytelegraph.co.uk/news/derby-news/dramatic-fall-dangerous-pollution-derby-3994221) *31 March 2020*
-
-
 * Leeds Live: [The huge unintended consequence coronavirus is having on Leeds](https://www.leeds-live.co.uk/news/leeds-news/huge-unintended-consequence-coronavirus-having-18000586) *1 April 2020*
 * Bournemouth Daily Echo: [Pollution levels are dropping during the lockdown](https://www.bournemouthecho.co.uk/news/18359123.pollution-levels-dropping-lockdown/) *5 April 2020*
 
