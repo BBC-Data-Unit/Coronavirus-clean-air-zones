@@ -21,6 +21,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Leeds Live: [The huge unintended consequence coronavirus is having on Leeds](https://www.leeds-live.co.uk/news/leeds-news/huge-unintended-consequence-coronavirus-having-18000586) *1 April 2020*
 * Somerset Live: [No decision made on whether Bath clean air zone will go ahead](https://www.somersetlive.co.uk/news/somerset-news/no-decision-made-whether-bath-4010014) *2 April 2020*
 * Bristol Live: [What will happen with Bristol and Bath's clean air zones? Will they still go ahead?](https://www.bristolpost.co.uk/news/bristol-news/what-happen-bristol-baths-clean-4014010) *3 April 2020*
+* South Wales Argus: [Pollution falls since coronavirus lockdown](https://www.southwalesargus.co.uk/news/18358799.pollution-falls-since-coronavirus-lockdown/) *4 April 2020*
 * Bournemouth Daily Echo: [Pollution levels are dropping during the lockdown](https://www.bournemouthecho.co.uk/news/18359123.pollution-levels-dropping-lockdown/) *5 April 2020*
 
 
